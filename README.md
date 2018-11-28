@@ -13,4 +13,4 @@ List of projects related to Ontology engineering and Semantic Web technologies t
 - https://github.com/dgarijo/Widoco - Wizard for documenting ontologies. WIDOCO is a step by step generator of HTML templates with the documentation of your ontology.
 - https://github.com/dvcama/LodView - dereferencing 
 - https://github.com/simile-widgets/exhibit - Publishing data 
-
+- [CubicWeb](https://www.cubicweb.org/) CubicWeb is a semantic web application framework, licensed under the LGPL, that empowers developers to efficiently build web applications by reusing components (called cubes) and following the well known object-oriented design principles.
