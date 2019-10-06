@@ -1,6 +1,9 @@
 # awesome-semantic-tools
 List of projects related to Ontology engineering and Semantic Web technologies that make a geek smile for they exist.
 
+# Related lists
+* [awesome-semantic-web](https://github.com/semantalytics/awesome-semantic-web) - A curated list of various semantic web and linked data resources.
+
 
 # Distributed linked data initiatives
 - [Linked Data Fragmets](https://linkeddatafragments.org/software/) -  With Linked Data Fragments, and specifically the Triple Pattern Fragments interface, we aim to explore what happens when we redistribute the load between clients and servers. We then measure the impact of such interfaces on clients, servers, and caches.
