@@ -41,10 +41,12 @@ List of projects related to Ontology engineering and Semantic Web technologies t
 - [Wings](https://github.com/KnowledgeCaptureAndDiscovery/wings) - A workflow sytstem
 
 # Documentation frameworks
-- [rdf2h](http://rdf2h.github.io/) - 
 - [Wydoco](https://github.com/dgarijo/Widoco) - Wizard for documenting ontologies. WIDOCO is a step by step generator of HTML templates with the documentation of your ontology.
 - [PyLode](https://github.com/RDFLib/pyLODE) - An OWL ontology documentation tool using Python and templating, based on LODE
-
+- [RDF2h](https://rdf2h.github.io/rdf2h-documentation/) - using MUSTACHE templating system
+- [XSPARQL implementation](https://github.com/semantalytics/xsparql)
+- [Linked Data Templates](https://atomgraph.github.io/Linked-Data-Templates/)
+- [SPARQL Template implementation](https://github.com/vcharpenay/STTL.js/)
 
 # Alignment frameworks
 - [Silk](http://silkframework.org/) - Alignment and transformation framework
