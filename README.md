@@ -56,7 +56,7 @@ List of projects related to Ontology engineering and Semantic Web technologies t
 - [RDF Unit](http://aksw.org/Projects/RDFUnit.html) - RDFUnit is a test driven data-debugging framework that can run automatically generated (based on a schema) and manually generated test cases against an endpoint. All test cases are executed as SPARQL queries using a pattern-based transformation approach.
 - [SHACL API](https://github.com/TopQuadrant/shacl) - SHACL API in Java based on Apache Jena
 - [ShEx JS](https://github.com/shexSpec/shex.js) - shex.js javascript package
-- 
+- [PyShEx](https://github.com/hsolbrig/PyShEx) - ShEx in Python
 
 
 # Query engines
