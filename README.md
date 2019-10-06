@@ -38,6 +38,7 @@ List of projects related to Ontology engineering and Semantic Web technologies t
 - [Open Refine](http://openrefine.org/) - A free, open source, powerful tool for working with messy data
 - [Tripliser](https://daverog.github.io/tripliser/) - convert XML to RDF
 - (XSPARQL)(http://xsparql.sourceforge.net/install.html) - XSPARQL is a query language combining XQuery and SPARQL for transformations between RDF and XML.
+- [Wings](https://github.com/KnowledgeCaptureAndDiscovery/wings) - A workflow sytstem
 
 # Documentation frameworks
 - [rdf2h](http://rdf2h.github.io/) - 
