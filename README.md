@@ -47,6 +47,7 @@ List of projects related to Ontology engineering and Semantic Web technologies t
 - [XSPARQL implementation](https://github.com/semantalytics/xsparql)
 - [Linked Data Templates](https://atomgraph.github.io/Linked-Data-Templates/)
 - [SPARQL Template implementation](https://github.com/vcharpenay/STTL.js/)
+- [dokieli](https://github.com/linkeddata/dokieli) - dokieli is a clientside editor for decentralised article publishing, annotations and social interactions [dokie.li](https://dokie.li/)
 
 # Alignment frameworks
 - [Silk](http://silkframework.org/) - Alignment and transformation framework
