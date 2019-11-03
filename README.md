@@ -39,6 +39,7 @@ List of projects related to Ontology engineering and Semantic Web technologies t
 - [Tripliser](https://daverog.github.io/tripliser/) - convert XML to RDF
 - (XSPARQL)(http://xsparql.sourceforge.net/install.html) - XSPARQL is a query language combining XQuery and SPARQL for transformations between RDF and XML.
 - [Wings](https://github.com/KnowledgeCaptureAndDiscovery/wings) - A workflow sytstem
+- [rdf2gremlin](https://github.com/costezki/rdf2gremlin) - It has never been easier to transform your RDF data into a property graph based on TinkerPop-Gremlin.
 
 # Documentation frameworks
 - [Wydoco](https://github.com/dgarijo/Widoco) - Wizard for documenting ontologies. WIDOCO is a step by step generator of HTML templates with the documentation of your ontology.
@@ -65,4 +66,4 @@ List of projects related to Ontology engineering and Semantic Web technologies t
 
 # Query engines
 - [Comunica](https://github.com/comunica/comunica) - Comunica is a highly modular and flexible meta query engine for the Web
-- 
+- [HyperGraphQL](https://www.hypergraphql.org/) - HyperGraphQL is a GraphQL interface for querying and serving linked data on the Web. It is designed to support federated querying and exposing data from multiple linked data services using GraphQL query language and schemas.
